@@ -1,10 +1,10 @@
 import './App.css';
-import LeftSideBar from './components/LeftSideBar';
+import Sidebar from './components/Sidebar/Sidebar';
 
 function App() {
   return (
     <div>
-     <LeftSideBar />
+     <Sidebar />
     </div>
   );
 }
